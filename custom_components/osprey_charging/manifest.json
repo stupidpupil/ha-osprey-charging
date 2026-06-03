@@ -1,0 +1,11 @@
+{
+  "domain": "osprey_charging",
+  "name": "Osprey EV Charging",
+  "codeowners": ["@stupidpupil"],
+  "config_flow": true,
+  "documentation": "https://github.com/stupidpupil/ha-osprey-charging",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/stupidpupil/ha-osprey-charging/issues",
+  "requirements": [],
+  "version": "1.0.0",
+}
